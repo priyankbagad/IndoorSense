@@ -1,0 +1,41 @@
+
+{
+  "features": [
+    {
+      "id": "room101",
+      "type": "room",
+      "name": "Classroom 101",
+      "coordinates": [[0,0],[0,100],[100,100],[100,0]]
+    },
+    {
+      "id": "elevatorA",
+      "type": "elevator",
+      "name": "Elevator A",
+      "coordinates": [[120,0],[140,0],[140,40],[120,40]]
+    },
+    {
+      "id": "corr1",
+      "type": "corridor",
+      "name": "Main Corridor",
+      "coordinates": [[0,110],[220,110],[220,160],[0,160]]
+    },
+    {
+      "id": "stairs1",
+      "type": "stairs",
+      "name": "Stairs 1",
+      "coordinates": [[160,0],[190,0],[190,40],[160,40]]
+    },
+    {
+      "id": "bath1",
+      "type": "bathroom",
+      "name": "Bathroom",
+      "coordinates": [[0,170],[70,170],[70,230],[0,230]]
+    },
+    {
+      "id": "land1",
+      "type": "landmark",
+      "name": "Reception Desk",
+      "coordinates": [[200,170],[250,170],[250,210],[200,210]]
+    }
+  ]
+}
